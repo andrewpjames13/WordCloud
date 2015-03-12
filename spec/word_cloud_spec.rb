@@ -6,7 +6,7 @@ describe WordCloud do
 
   it 'can count  words' do
 
-        words = WordCloud.new(WORDS)
+        words = WordCloud.new(SAYINGS)
 
 
   end
